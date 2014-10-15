@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# This script is designed to take a wordpress xml export file and split it into some
+# This script is designed to take a WordPress xml export file and split it into some
 # number of chunks (2 by default). The number of lines per chunk is determined by counting
 # the number of occurences of a particular line, '<item>\n' by default, and breaking up the
 # such that each chunk has an equal number occurences of that line. The appropriate header
@@ -18,7 +18,7 @@ import sys
 import math
 
 if len(sys.argv) < 2 :
-	print 'Please specify the name of wordpress export file you would like to split'
+	print 'Please specify the name of WordPress export file you would like to split'
 	sys.exit(0)
 
 try :

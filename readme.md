@@ -8,6 +8,8 @@ and footer is added to each chunk.
 
 I downloaded this from somewhere, and cannot remember the original author. Please step up up if it is you so I can give credit where it is due.
 
+**Update:** Looks like there's an app as well: [https://github.com/suhastech/Wordpress-WXR-Splitter](https://github.com/suhastech/Wordpress-WXR-Splitter)
+
 
 ### Instructions for use:
 in terminal

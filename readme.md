@@ -6,7 +6,7 @@ the number of occurences of a particular line, '<item>\n' by default, and breaki
 such that each chunk has an equal number occurences of that line. The appropriate header
 and footer is added to each chunk.
 
-I downloaded this from somewhere, and cannot remember the original author. Please steup up if it is you so I can give credit where it is due.
+I downloaded this from somewhere, and cannot remember the original author. Please step up up if it is you so I can give credit where it is due.
 
 
 ### Instructions for use:

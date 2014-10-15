@@ -1,4 +1,4 @@
-# WordPress Export XML splitter
+# WDS WordPress Export XML splitter
 
 This script is designed to take a wordpress xml export file and split it into some
 number of chunks (2 by default). The number of lines per chunk is determined by counting

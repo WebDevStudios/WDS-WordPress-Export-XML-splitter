@@ -14,4 +14,4 @@ in terminal
 make sure you cd to the right directory
 and that the two files are in that same directory
 
-`python WPsplitter.py <filename.extension> <number of chunks>`
+`python wp-splitter.py <filename.extension> <number of chunks>`

@@ -13,4 +13,5 @@ I downloaded this from somewhere, and cannot remember the original author. Pleas
 in terminal
 make sure you cd to the right directory
 and that the two files are in that same directory
-python WPsplitter.py <filename.extension> <number of chunks>
+
+`python WPsplitter.py <filename.extension> <number of chunks>`
